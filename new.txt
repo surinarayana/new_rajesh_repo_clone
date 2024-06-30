@@ -1,1 +1,2 @@
 "adding new text" in new.txt
+"adding new text" 
