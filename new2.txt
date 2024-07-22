@@ -6,3 +6,4 @@
 this is sixth line
 "adding new text" 
 "adding new text" 
+"adding new text" 
